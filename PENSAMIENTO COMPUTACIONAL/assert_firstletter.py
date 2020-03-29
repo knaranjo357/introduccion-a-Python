@@ -12,3 +12,5 @@ def primera_letra_enlista(lista_de_palabras):
         primeras_letras.append(palabra[0])
 
     return primeras_letras
+
+    ##
