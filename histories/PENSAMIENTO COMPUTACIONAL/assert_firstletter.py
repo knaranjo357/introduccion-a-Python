@@ -13,3 +13,4 @@ def primera_letra_enlista(lista_de_palabras):
 
     return primeras_letras
 
+#
